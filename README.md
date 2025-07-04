@@ -28,3 +28,10 @@ A simple Streamlit app that uses **YOLOv8** to detect tigers in uploaded videos 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## Results 
+
+![Demo](Result_Img/result.PNG)
+![Demo](Result_Img/result1.PNG)
+![Demo](Result_Img/result2.PNG)
